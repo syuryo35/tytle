@@ -20,7 +20,7 @@ function clrBlock(){
         }
     }
 }
-var idx = 0;
+var idx = 7;
 var tmr = 0;
 var Smode = 0;
 //操作するブロックの配列、初期値代入
