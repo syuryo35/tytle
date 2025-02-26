@@ -16,7 +16,7 @@ function Sound(){
     //タップ判定
     if(25<tapY && tapY<110 && tapC>0){
         if(860<tapX && tapX<940){
-            tapC=0;    
+            //tapC=0;    
             //モードチェンジ
             //消音
             if(Smode==0){
